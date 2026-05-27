@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailconnect",
+        "uuid": 3703932,
+        "checksum": "9tboph"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
